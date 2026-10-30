@@ -1,13 +1,4 @@
-```html
-<div align="center">
-
 # Abhay Singh
-
-### `B.Tech Computer Science Student`
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF99&center=true&vCenter=true&width=500&lines=Computer+Science+Student;Aspiring+Software+Developer;Building+Things+With+Code" />
-
-</div>
 
 ---
 
@@ -57,7 +48,7 @@ tech_stack = {
 
 ```bash
 GitHub   : https://github.com/Abhay-code-CS
-LinkedIn : YOUR_LINKEDIN_URL
+LinkedIn : www.linkedin.com/in/abhaysingh-cs
 ```
 
 ---
@@ -75,5 +66,4 @@ while(true) {
 }
 ```
 
-</div>
-```
+
